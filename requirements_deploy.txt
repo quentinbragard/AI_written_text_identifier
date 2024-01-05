@@ -1,0 +1,13 @@
+numpy
+pandas
+tensorflow
+tensorflow-metal; sys_platform == 'darwin' and 'ARM' in platform_version # Mac M-chips
+transformers
+datasets
+fastapi
+joblib
+pathlib
+uvicorn
+scikit-learn
+torch
+google-cloud-storage
